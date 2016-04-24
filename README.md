@@ -39,7 +39,7 @@
 </TD>
 <TABLE>
 <TD>
-<center><IMG SRC=".jpg"width='250' height='250'></center></center>
+<center><IMG SRC="motores.jpe"width='250' height='250'></center></center>
 </TD>
 </TABLE
 </BODY>
