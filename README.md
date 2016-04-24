@@ -1,6 +1,7 @@
 #Spaceteamhuehue
+<BODY BGCOLOR="#ff0000">
 <IMG SRC="gordos.jpe">
-Reto Print My Rocket 
+Reto Print My Rocket
 <p> Representado a Huehuetenango, Guatemala; </p> 
 
 <p><b> Integrantes de Grupo </b></p>
@@ -25,3 +26,4 @@ Reto Print My Rocket
 <center><IMG SRC="moi.jpg"width='250' height='250'></center> <center><p> Moises Ceto #Speaceteamhuehue <a href="https://twitter.com/MoisesCeto">@MoisesCeto</a></p></center>
 </TD>
 </TABLE>
+</BODY>
