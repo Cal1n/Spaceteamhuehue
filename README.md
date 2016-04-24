@@ -1,7 +1,7 @@
 #Spaceteamhuehue
 <BODY BGCOLOR="#ff0000">
 <IMG SRC="gordos.jpe">
-Reto Print My Rocket
+
 <p> Representado a Huehuetenango, Guatemala; </p> 
 
 <p><dd>Integrantes de Grupo</dd></p>
