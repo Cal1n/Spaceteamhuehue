@@ -4,7 +4,7 @@
 Reto Print My Rocket
 <p> Representado a Huehuetenango, Guatemala; </p> 
 
-<p><b> Integrantes de Grupo </b></p>
+<p><dd>Integrantes de Grupo</dd></p>
 <TABLE>
 <TD><center><IMG SRC="Carlos.jpg" width='250' height='250'></center> <center><p> Carlos Gómez #Speaceteamhuehue <a href="https://twitter.com/gilberto1344">@Gilberto1344</a> </p></center>
 </TD>
@@ -26,7 +26,17 @@ Reto Print My Rocket
 <center><IMG SRC="moi.jpg"width='250' height='250'></center> <center><p> Moises Ceto #Speaceteamhuehue <a href="https://twitter.com/MoisesCeto">@MoisesCeto</a></p></center>
 </TD>
 </TABLE>
-
+<p><dd>Print My Rocket </dd></p>
+<TABLE>
+<TD>
+<center><IMG SRC="co.jpg"width='250' height='250'></center> 
+</TD>
+<TD>
+<center><IMG SRC="cohe.jpg"width='250' height='250'></center> 
+</TD>
+<TD>
+<center><IMG SRC="f.jpg"width='250' height='250'></center></center>
+</TD>
 <TABLE>
 
 </TABLE
